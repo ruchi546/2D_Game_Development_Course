@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 500024c3aa471d6408f58045a5206a07, type: 3}
+  m_Name: so_barrel_watermelon
+  m_EditorClassIdentifier: 
+  Name: Burst Melon Barrel
+  ImageUI: {fileID: 21300000, guid: 2e6a1f971f606f844a26b0d8122c6765, type: 3}
+  Cost: 40
+  IsStackable: 1
+  LifeRestore: 0.6
